@@ -1,0 +1,14 @@
+{
+    "num_layers": 2,
+    "hidden_unit": 256,
+    "dropout_rate": 0.3,
+    "cell_type": "lstm",
+    "num_labels": 5,
+    "list_positives": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "only_text_a": 0
+}

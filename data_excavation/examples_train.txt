@@ -1,0 +1,36 @@
+
+text_a: rfind和rindex方法[be]用法[ee]和上面一样，只是从[be]字符串[ee]的末尾开始查找。
+rf O
+##in O
+##d O
+和 O
+r O
+##in O
+##de O
+##x O
+方 O
+法 O
+用 B-ENT
+法 I-ENT
+和 O
+上 O
+面 O
+一 O
+样 O
+， O
+只 O
+是 O
+从 O
+字 B-ENT
+符 I-ENT
+串 I-ENT
+的 O
+末 O
+尾 O
+开 O
+始 O
+查 O
+找 O
+。 O
+tokens_b: 开 始
+

@@ -1,0 +1,6 @@
+
+text_a: python的##index方法是在[be]字符串[ee]里查找串第一##次出#现的[bd]位置[ed]，类似[be]字符串[ee]的find方法，不过比find方法更好的是，如果查找不到子串，会抛出异常，而不是返回-1
+text_b: 查找
+
+text_a: rfind和rindex方法[be]用法[ee]和上面一样，只是从[be]字符串[ee]的末尾开始查找。
+text_b: 开始
